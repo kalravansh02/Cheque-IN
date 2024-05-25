@@ -1,0 +1,1 @@
+cv2.imshow('Sign on cheque', cheque_image)
